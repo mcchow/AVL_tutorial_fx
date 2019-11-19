@@ -1,0 +1,7 @@
+Created a GUI program to visualize AVL tree insertion to help student to understand how an AVL tree works. 
+It has more than 100 lines of Java code with javafx library.
+System requirement:
+1. Have a bar to input data in it
+2. Have a AVL tree in to check the ans
+3. Have a GUI to show the AVL tree sturture
+4. Have a button to insert the data
